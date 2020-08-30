@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "520178035437",
+    "firebase_url": "https://alarmapp-8a8df.firebaseio.com",
+    "project_id": "alarmapp-8a8df",
+    "storage_bucket": "alarmapp-8a8df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520178035437:android:da662417d0524f63cabae4",
+        "android_client_info": {
+          "package_name": "com.mrspd.alarmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520178035437-mvner5vj9amn3ppjamp0jpjj7dds6r67.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mrspd.alarmapp",
+            "certificate_hash": "69fe4451a969c3a419b69831c5ca7c1dff06b2da"
+          }
+        },
+        {
+          "client_id": "520178035437-9rtspviai411f67t4qs0k44ol1btjkpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASMygfRq_s0ncqcDLQXe4-MEF5tYXAyks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520178035437-9rtspviai411f67t4qs0k44ol1btjkpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
